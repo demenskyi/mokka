@@ -1,0 +1,108 @@
+{
+  "name": "Mokka Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1E1E1E",
+    "editor.foreground": "#B3B3B3",
+    "activityBarBadge.background": "#007acc",
+    "sideBarTitle.foreground": "#bbbbbb"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation", "keyword.operator", "meta.brace"],
+      "settings": {
+        "foreground": "#666666"
+      }
+    },
+
+    {
+      "scope": [
+        "meta.array.literal",
+        "variable.parameter",
+        "support.variable",
+        "meta.embedded.line",
+        "constant.language.import-export-all",
+        "support.type.property-name.css",
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css",
+        "support.type.map.key.scss",
+        "entity.name.tag.reference.scss"
+      ],
+      "settings": {
+        "foreground": "#B3B3B3"
+      }
+    },
+
+    {
+      "scope": [
+        "keyword",
+        "storage",
+        "keyword.operator.expression",
+        "keyword.operator.logical.scss"
+      ],
+      "settings": {
+        "foreground": "#B97ACC"
+      }
+    },
+
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "storage.type.function.arrow",
+        "variable.language.super",
+        "entity.other.attribute-name.id.css"
+      ],
+      "settings": {
+        "foreground": "#73B2E6"
+      }
+    },
+
+    {
+      "scope": [
+        "string",
+        "punctuation.definition.string",
+        "entity.other.inherited-class",
+        "entity.other.attribute-name.class.css",
+        "meta.attribute-selector.scss"
+      ],
+      "settings": {
+        "foreground": "#9CCC7A"
+      }
+    },
+
+    {
+      "scope": [
+        "entity.name.tag",
+        "meta.import",
+        "variable.other.jsdoc",
+        "variable.language.this",
+        "variable.scss"
+      ],
+      "settings": {
+        "foreground": "#E66772"
+      }
+    },
+
+    {
+      "scope": [
+        "constant",
+        "entity.other.attribute-name",
+        "keyword.other.unit",
+        "support.constant.property-value.css",
+        "support.constant.font-name.css",
+        "variable.parameter.url.scss"
+      ],
+      "settings": {
+        "foreground": "#E6A467"
+      }
+    },
+
+    {
+      "scope": ["support", "entity"],
+      "settings": {
+        "foreground": "#E6BD73"
+      }
+    }
+  ]
+}
