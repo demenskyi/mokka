@@ -3,10 +3,15 @@
   "type": "dark",
   "colors": {
     "focusBorder": "#3B3B3B",
-    "selection.background": "#3B3B3B",
+    "selection.background": "#666666",
 
     "window.activeBorder": "#3B3B3B",
     "window.inactiveBorder": "#1E1E1E",
+
+    "titleBar.inactiveBackground": "#2B2B2B",
+    "titleBar.inactiveForeground": "#666666",
+    "titleBar.activeBackground": "#1E1E1E",
+    "titleBar.activeForeground": "#B3B3B3",
 
     "welcomePage.background": "#1E1E1E",
     "welcomePage.buttonBackground": "#3B3B3B",
