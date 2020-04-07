@@ -169,7 +169,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#E6D273"
       }
     },
     {
@@ -204,7 +204,7 @@
         "punctuation.definition.entity.css"
       ],
       "settings": {
-        "foreground": "#98C379"
+        "foreground": "#9CCC7A"
       }
     },
     {
@@ -217,7 +217,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#73B2E6"
       }
     },
     {
@@ -230,7 +230,7 @@
         "variable.other.env"
       ],
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#E6737C"
       }
     },
     {
@@ -245,7 +245,7 @@
         "entity.other.attribute-name.pseudo-element.css"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#E6AC73"
       }
     },
     {
