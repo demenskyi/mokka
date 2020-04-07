@@ -27,6 +27,9 @@
     "input.placeholderForeground": "#666666",
     "inputOption.activeBorder": "#1E1E1E",
     "inputOption.activeBackground": "#1E1E1E",
+    "checkbox.border": "#3B3B3B",
+    "checkbox.background": "#3B3B3B",
+    "checkbox.foreground": "#B3B3B3",
 
     "scrollbarSlider.background": "#2B2B2B",
     "scrollbarSlider.activeBackground": "#3B3B3B",
@@ -169,7 +172,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#E6D273"
+        "foreground": "#E6BF73"
       }
     },
     {
@@ -254,7 +257,8 @@
         "entity.other.attribute-name.scss",
         "entity.name.tag.reference.scss",
         "support.type.property-name.json",
-        "constant.language.import-export-all"
+        "constant.language.import-export-all",
+        "entity.name.tag.yaml"
       ],
       "settings": {
         "foreground": "#B3B3B3"
