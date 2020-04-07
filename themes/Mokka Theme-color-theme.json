@@ -22,9 +22,9 @@
     "button.hoverBackground": "#2B2B2B",
 
     "dropdown.border": "#1E1E1E",
-    "dropdown.background": "#1E1E1E",
+    "dropdown.background": "#2B2B2B",
     "dropdown.foreground": "#B3B3B3",
-    "dropdown.listBackground": "#1E1E1E",
+    "dropdown.listBackground": "#2B2B2B",
 
     "input.border": "#1E1E1E",
     "input.background": "#3B3B3B",
