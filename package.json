@@ -1,21 +1,21 @@
 {
-    "name": "mokka",
-    "displayName": "Mokka",
-    "description": "Mokka theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Mokka Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Mokka Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "mokka",
+  "displayName": "Mokka",
+  "description": "Mokka theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mokka",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mokka.json"
+      }
+    ]
+  }
 }
