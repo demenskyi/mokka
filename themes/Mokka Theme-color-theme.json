@@ -2,15 +2,6 @@
   "name": "Mokka",
   "type": "dark",
   "colors": {
-    // * Colors
-    // Primary: #1E1E1E
-    // Primary dark: #333333
-    // Primary dark drop: #333333a1
-    // Primary light: #5C5C5C
-    // Primary highlight: #D1D1D1
-
-    // Secondary: #B3B3B3
-
     "editor.background": "#1E1E1E",
     "editor.foreground": "#B3B3B3",
 
