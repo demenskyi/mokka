@@ -6,7 +6,7 @@ The idea was to create a color theme that only highlights the entities necessary
 
 ## Recommended settings
 
-##### Font
+#### Font
 
 For a better experience, use the "[Cascadia Code](https://github.com/microsoft/cascadia-code)" or "[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)" font.
 
@@ -19,7 +19,7 @@ For a better experience, use the "[Cascadia Code](https://github.com/microsoft/c
 "terminal.integrated.lineHeight": 1.2,
 ```
 
-##### Icons
+#### Icons
 
 For better experience, use the "[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)" icons.
 
@@ -30,7 +30,7 @@ For better experience, use the "[Material Icon Theme](https://marketplace.visual
 "material-icon-theme.hidesExplorerArrows": true,
 ```
 
-##### Cursor
+#### Cursor
 
 ```"editor.cursorStyle": "underline",
 "editor.cursorBlinking": "smooth",
@@ -40,7 +40,7 @@ For better experience, use the "[Material Icon Theme](https://marketplace.visual
 "terminal.integrated.cursorStyle": "underline",
 ```
 
-##### Interface
+#### Interface
 
 ```"workbench.editor.labelFormat": "short",
 "workbench.editor.showIcons": false,
@@ -60,5 +60,7 @@ For better experience, use the "[Material Icon Theme](https://marketplace.visual
 "window.titleBarStyle": "custom",
 "window.title": "${dirty}${separator}${rootName}${separator}${activeEditorShort}",
 ```
+
+---
 
 Made for pleasure with love ❤️
