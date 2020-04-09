@@ -202,102 +202,104 @@
   "tokenColors": [
     {
       "scope": [
-        "support.class.component",
-        "entity.name.type",
-        "support.class.builtin",
-        "support.class"
-      ],
-      "settings": {
-        "foreground": "#E6BF73"
-      }
-    },
-    {
-      "scope": ["comment", "keyword.operator", "meta.brace", "punctuation"],
-      "settings": {
-        "foreground": "#666666"
-      }
-    },
-    {
-      "scope": [
-        "keyword",
         "storage",
-        "punctuation.definition.block.tag.jsdoc",
+        "keyword",
         "keyword.operator.expression",
+        "keyword.operator.new",
+        "support.type.object.module",
+        "punctuation.definition.block.tag.jsdoc",
         "keyword.operator.logical.scss",
-        "punctuation.definition.keyword"
+        "punctuation.definition.keyword.scss"
       ],
       "settings": {
         "foreground": "#B97ACC"
       }
     },
+
     {
       "scope": [
-        "string",
-        "punctuation.definition.string",
-        "entity.other.inherited-class",
-        "entity.other.attribute-name.class.css",
-        "entity.other.attribute-name.parent-selector-suffix.css",
-        "meta.attribute-selector.scss",
-        "support.class.builtin",
-        "entity.name.type.js",
-        "punctuation.definition.entity.css"
-      ],
-      "settings": {
-        "foreground": "#9CCC7A"
-      }
-    },
-    {
-      "scope": [
-        "entity.name.function",
-        "storage.type.function.arrow",
-        "variable.language.super",
-        "entity.other.attribute-name.id.css",
-        "support.function.misc.scss",
-        "support.function"
-      ],
-      "settings": {
-        "foreground": "#73B2E6"
-      }
-    },
-    {
-      "scope": [
-        "meta.import",
         "entity.name.tag",
+        "support.variable.object.process",
+        "support.variable.property.process",
+        "support.variable.object.node",
+        "meta.import",
         "variable.language.this",
-        "variable.scss",
         "variable.other.jsdoc",
-        "variable.other.env"
+        "variable.scss",
+        "constant.language.import-export-all"
       ],
       "settings": {
         "foreground": "#E6737C"
       }
     },
+
     {
       "scope": [
-        "constant.language",
-        "constant.numeric",
-        "constant.other.color",
-        "keyword.other.unit",
+        "entity.name.function",
+        "support.function",
+        "storage.type.function.arrow",
+        "variable.language.super",
+        "entity.other.attribute-name.id.css"
+      ],
+      "settings": {
+        "foreground": "#73B2E6"
+      }
+    },
+
+    {
+      "scope": [
+        "string",
+        "punctuation.definition.string",
+        "entity.other.attribute-name.class.css",
+        "meta.attribute-selector.scss"
+      ],
+      "settings": {
+        "foreground": "#9CCC7A"
+      }
+    },
+
+    {
+      "scope": ["entity", "support"],
+      "settings": {
+        "foreground": "#E6BF73"
+      }
+    },
+    {
+      "scope": [
+        "constant",
         "entity.other.attribute-name",
-        "support.type.primitive",
-        "entity.other.attribute-name.pseudo-class.css",
-        "entity.other.attribute-name.pseudo-element.css"
+        "support.type",
+        "entity.name.type.instance.jsdoc",
+        "support.constant.property-value.css",
+        "keyword.other.unit",
+        "variable.parameter.url.scss"
       ],
       "settings": {
         "foreground": "#E6AC73"
       }
     },
+
     {
       "scope": [
         "meta.template.expression",
-        "entity.other.attribute-name.scss",
-        "entity.name.tag.reference.scss",
+        "support.variable.property",
         "support.type.property-name.json",
-        "constant.language.import-export-all",
-        "entity.name.tag.yaml"
+        "entity.name.tag.yaml",
+        "support.type.map.key.scss",
+        "support.type.property-name.css",
+        "entity.name.tag.reference.scss",
+        "entity.other.attribute-name.scss",
+        "support.type.property-name.media.css"
       ],
       "settings": {
         "foreground": "#B3B3B3"
+      }
+    },
+
+    {
+      "scope": ["punctuation", "comment", "keyword.operator", "meta.brace"],
+      "settings": {
+        "foreground": "#666666"
       }
     }
   ]
