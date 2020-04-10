@@ -251,7 +251,8 @@
         "string",
         "punctuation.definition.string",
         "entity.other.attribute-name.class.css",
-        "meta.attribute-selector.scss"
+        "meta.attribute-selector.scss",
+        "punctuation.definition.entity.css"
       ],
       "settings": {
         "foreground": "#9CCC7A"
