@@ -18,7 +18,8 @@ To install recommended fonts and icons, see the "Recommended settings" section.
 
 For a better experience, use the "[Cascadia Code](https://github.com/microsoft/cascadia-code)" or "[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)" font.
 
-```"editor.fontFamily": "Cascadia Code, monospace",
+```json
+"editor.fontFamily": "Cascadia Code, monospace",
 "editor.fontSize": 12,
 "editor.fontLigatures": true,
 
@@ -31,7 +32,8 @@ For a better experience, use the "[Cascadia Code](https://github.com/microsoft/c
 
 For better experience, use the "[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)" icons.
 
-```"workbench.iconTheme": "material-icon-theme",
+```json
+"workbench.iconTheme": "material-icon-theme",
 "material-icon-theme.folders.theme": "classic",
 "material-icon-theme.folders.color": "#666666",
 "material-icon-theme.activeIconPack": "react_redux",
@@ -40,7 +42,8 @@ For better experience, use the "[Material Icon Theme](https://marketplace.visual
 
 #### Cursor
 
-```"editor.cursorStyle": "underline",
+```json
+"editor.cursorStyle": "underline",
 "editor.cursorBlinking": "smooth",
 "editor.cursorSmoothCaretAnimation": true,
 
@@ -50,7 +53,8 @@ For better experience, use the "[Material Icon Theme](https://marketplace.visual
 
 #### Interface
 
-```"workbench.editor.labelFormat": "short",
+```json
+"workbench.editor.labelFormat": "short",
 "workbench.editor.showIcons": false,
 
 "breadcrumbs.icons": false,
