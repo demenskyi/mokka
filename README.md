@@ -4,6 +4,8 @@ Minimal dark theme for Visual Studio Code.
 
 The idea was to create a color theme that only highlights the entities necessary for distinguishing, and doesn't complicate the code reading with unnecessary colors and highlights.
 
+![](images/color-palette.png)
+
 ## Installation
 
 Download or clone this repository and place the files in this path: `~/.vscode/extensions`.

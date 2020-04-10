@@ -106,13 +106,13 @@
     "editorIndentGuide.background": "#333333",
     "editorIndentGuide.activeBackground": "#666666",
 
-    "editorSuggestWidget.border": "#1E1E1E",
+    "editorSuggestWidget.border": "#333333",
     "editorSuggestWidget.background": "#1E1E1E",
     "editorSuggestWidget.foreground": "#B3B3B3",
     "editorSuggestWidget.selectedBackground": "#333333",
     "editorSuggestWidget.highlightForeground": "#B3B3B3",
 
-    "editorWidget.border": "#1E1E1E",
+    "editorWidget.border": "#333333",
     "editorWidget.background": "#1E1E1E",
     "editorWidget.foreground": "#B3B3B3",
 
@@ -142,7 +142,7 @@
     "panelTitle.activeForeground": "#B3B3B3",
     "panelTitle.inactiveForeground": "#666666",
 
-    "terminal.border": "#1E1E1E",
+    "terminal.border": "#333333",
     "terminal.background": "#1E1E1E",
     "terminal.foreground": "#B3B3B3",
     "terminal.selectionBackground": "#333333a1",
