@@ -62,6 +62,18 @@
 
     "tree.indentGuidesStroke": "#666666",
 
+    "menu.border": "#333333",
+    "menu.background": "#1E1E1E",
+    "menu.foreground": "#B3B3B3",
+    "menu.selectionBorder": "#333333",
+    "menu.selectionBackground": "#333333",
+    "menu.selectionForeground": "#B3B3B3",
+    "menu.separatorBackground": "#333333",
+
+    "menubar.selectionBorder": "#333333",
+    "menubar.selectionBackground": "#333333",
+    "menubar.selectionForeground": "#B3B3B3",
+
     "tab.border": "#1E1E1E",
     "tab.activeBorder": "#1E1E1E",
     "tab.activeBorderTop": "#1E1E1E",
