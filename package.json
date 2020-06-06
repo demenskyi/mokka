@@ -4,7 +4,7 @@
   "description": "Mokka theme",
   "icon": "images/icon.png",
   "publisher": "Demenskiy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.43.0"
   },
