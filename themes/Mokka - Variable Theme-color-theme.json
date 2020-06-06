@@ -1,5 +1,5 @@
 {
-  "name": "Mokka",
+  "name": "Mokka - Variable",
   "type": "dark",
   "colors": {
     "editor.background": "#1E1E1E",
@@ -234,6 +234,8 @@
         "support.variable.object.process",
         "support.variable.property.process",
         "support.variable.object.node",
+        "meta.definition.variable",
+        "meta.import",
         "variable.language.this",
         "variable.other.jsdoc",
         "variable.scss",

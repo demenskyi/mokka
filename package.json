@@ -17,6 +17,11 @@
         "label": "Mokka",
         "uiTheme": "vs-dark",
         "path": "./themes/Mokka Theme-color-theme.json"
+      },
+      {
+        "label": "Mokka - Variable",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mokka - Variable Theme-color-theme.json"
       }
     ]
   },
