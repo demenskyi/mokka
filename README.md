@@ -4,16 +4,9 @@ Minimal dark theme for Visual Studio Code.
 
 The idea was to create a color theme that only highlights the entities necessary for distinguishing, and doesn't complicate the code reading with unnecessary colors and highlights.
 
-![](images/color-palette.png)
-![](images/preview-code-react.png)
-
-## Installation
-
-Download or clone this repository and place the files in this path: `~/.vscode/extensions`.
-
-Then open Visual Studio Code, press `Ctrl/CMD + Shift + P`, enter `Preferences: Color Theme` and select `Mokka`.
-
-To install recommended fonts and icons, see the "Recommended settings" section.
+![Mokka hero](images/hero.png)
+![Mokka code preview (React.js)](images/preview-code-react.png)
+![Mokka color palette](images/color-palette.png)
 
 ## Recommended settings
 
@@ -33,7 +26,7 @@ For a better experience, use the "[Cascadia Code](https://github.com/microsoft/c
 
 #### Icons
 
-For better experience, use the "[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)" icons.
+For a better experience, use the "[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)" icons.
 
 ```json
 "workbench.iconTheme": "material-icon-theme",
