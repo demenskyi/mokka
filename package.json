@@ -2,6 +2,7 @@
   "name": "mokka",
   "displayName": "Mokka",
   "description": "Mokka theme",
+  "icon": "images/icon",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.43.0"

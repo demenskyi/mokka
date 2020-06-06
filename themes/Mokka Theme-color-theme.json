@@ -234,6 +234,7 @@
         "support.variable.object.process",
         "support.variable.property.process",
         "support.variable.object.node",
+        "meta.var-single-variable.expr",
         "meta.import",
         "variable.language.this",
         "variable.other.jsdoc",
