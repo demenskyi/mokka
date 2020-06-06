@@ -7,14 +7,6 @@ The idea was to create a color theme that only highlights the entities necessary
 ![](images/color-palette.png)
 ![](images/preview-code-react.png)
 
-## Installation
-
-Download or clone this repository and place the files in this path: `~/.vscode/extensions`.
-
-Then open Visual Studio Code, press `Ctrl/CMD + Shift + P`, enter `Preferences: Color Theme` and select `Mokka`.
-
-To install recommended fonts and icons, see the "Recommended settings" section.
-
 ## Recommended settings
 
 #### Font
@@ -33,7 +25,7 @@ For a better experience, use the "[Cascadia Code](https://github.com/microsoft/c
 
 #### Icons
 
-For better experience, use the "[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)" icons.
+For a better experience, use the "[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)" icons.
 
 ```json
 "workbench.iconTheme": "material-icon-theme",
