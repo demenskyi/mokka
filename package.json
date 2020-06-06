@@ -2,7 +2,7 @@
   "name": "mokka",
   "displayName": "Mokka",
   "description": "Mokka theme",
-  "icon": "images/icon",
+  "icon": "images/icon.png",
   "publisher": "Demenskiy",
   "version": "0.0.1",
   "engines": {
