@@ -22,7 +22,6 @@
 
     "activityBar.border": "#1E1E1E",
     "activityBar.background": "#1E1E1E",
-    "activityBar.dropBackground": "#333333a1",
     "activityBar.foreground": "#B3B3B3",
 
     "activityBar.activeBorder": "#1E1E1E",
@@ -149,7 +148,6 @@
 
     "panel.border": "#1E1E1E",
     "panel.background": "#1E1E1E",
-    "panel.dropBackground": "#333333a1",
     "panelTitle.activeBorder": "#1E1E1E",
     "panelTitle.activeForeground": "#B3B3B3",
     "panelTitle.inactiveForeground": "#666666",
@@ -221,6 +219,7 @@
         "support.type.object.module",
         "punctuation.definition.block.tag.jsdoc",
         "keyword.operator.logical.scss",
+        "keyword.operator.logical.python",
         "punctuation.definition.keyword.scss"
       ],
       "settings": {
