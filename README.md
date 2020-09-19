@@ -2,7 +2,7 @@
 
 Minimal dark theme for Visual Studio Code.
 
-The idea was to create a color theme that only highlights the entities necessary for distinguishing, and doesn't complicate the code reading with unnecessary colors and highlights.
+The idea was to create a color theme that highlights only those objects that are necessary for distinguishing and does not make the code difficult to read with unnecessary colors and highlights.
 
 ![Mokka hero](images/hero.png)
 ![Mokka code preview (React.js)](images/preview-code-react.png)
@@ -64,9 +64,6 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 "editor.minimap.enabled": false,
 "workbench.statusBar.visible": false,
 "workbench.activityBar.visible": false,
-
-"window.titleBarStyle": "custom",
-"window.title": "${dirty}${separator}${rootName}${separator}${activeEditorShort}",
 ```
 
 ---
