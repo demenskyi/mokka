@@ -4,7 +4,7 @@
   "description": "Mokka theme",
   "icon": "images/icon.png",
   "publisher": "Demenskiy",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "engines": {
     "vscode": "^1.43.0"
   },
@@ -17,11 +17,6 @@
         "label": "Mokka",
         "uiTheme": "vs-dark",
         "path": "./themes/Mokka Theme-color-theme.json"
-      },
-      {
-        "label": "Mokka - Variable",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Mokka - Variable Theme-color-theme.json"
       }
     ]
   },

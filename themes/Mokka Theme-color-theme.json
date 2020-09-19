@@ -283,7 +283,9 @@
         "entity.name.type.instance.jsdoc",
         "support.constant.property-value.css",
         "keyword.other.unit",
-        "variable.parameter.url.scss"
+        "variable.parameter.url.scss",
+        "support.variable.magic.python",
+        "constant.character.format.placeholder.other.python"
       ],
       "settings": {
         "foreground": "#E6AC73"
@@ -300,7 +302,8 @@
         "support.type.property-name.css",
         "entity.name.tag.reference.scss",
         "entity.other.attribute-name.scss",
-        "support.type.property-name.media.css"
+        "support.type.property-name.media.css",
+        "constant.other.caps.python"
       ],
       "settings": {
         "foreground": "#B3B3B3"
