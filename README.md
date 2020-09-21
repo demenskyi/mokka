@@ -5,8 +5,8 @@ Minimal dark theme for Visual Studio Code.
 The idea was to create a color theme that highlights only those objects that are necessary for distinguishing and does not make the code difficult to read with unnecessary colors and highlights.
 
 ![Mokka hero](images/hero.png)
-![Mokka code preview (React.js)](images/preview-code-react.png)
 ![Mokka color palette](images/color-palette.png)
+![Mokka code preview (React.js)](images/code-preview.png)
 
 ## Recommended settings
 
