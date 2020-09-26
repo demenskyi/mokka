@@ -146,7 +146,7 @@
     "peekViewResult.selectionForeground": "#B3B3B3",
     "peekViewResult.matchHighlightBackground": "#666666",
 
-    "panel.border": "#1E1E1E",
+    "panel.border": "#333333",
     "panel.background": "#1E1E1E",
     "panelTitle.activeBorder": "#1E1E1E",
     "panelTitle.activeForeground": "#B3B3B3",
