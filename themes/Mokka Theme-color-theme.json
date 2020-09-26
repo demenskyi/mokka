@@ -6,7 +6,7 @@
     "editor.foreground": "#B3B3B3",
 
     "focusBorder": "#333333",
-    "selection.background": "#333333",
+    "selection.background": "#B3B3B3",
 
     "window.activeBorder": "#1E1E1E",
     "window.inactiveBorder": "#333333",
