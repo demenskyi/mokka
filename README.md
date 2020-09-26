@@ -4,9 +4,9 @@ Minimal dark theme for Visual Studio Code.
 
 The idea was to create a color theme that highlights only those objects that are necessary for distinguishing and does not make the code difficult to read with unnecessary colors and highlights.
 
-![Mokka hero](images/hero.png)
-![Mokka color palette](images/color-palette.png)
-![Mokka code preview (React.js)](images/code-preview.png)
+![Mokka hero](https://raw.githubusercontent.com/demenskiy/mokka/preview/images/hero.png)
+![Mokka color palette](https://raw.githubusercontent.com/demenskiy/mokka/preview/images/color-palette.png)
+![Mokka code preview (React.js)](https://raw.githubusercontent.com/demenskiy/mokka/preview/images/code-preview.png)
 
 ## Recommended settings
 
@@ -64,6 +64,18 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 "editor.minimap.enabled": false,
 "workbench.statusBar.visible": false,
 "workbench.activityBar.visible": false,
+
+"customizeUI.activityBar": "regular",
+"customizeUI.activityBarHideSettings": true,
+"customizeUI.titleBar": "inline",
+"customizeUI.stylesheet": {
+  ".composite.title .title-label": "display: none !important;",
+  ".global-activity .monaco-action-bar": "display: none !important;",
+  ".tabs-and-actions-container .editor-actions": "display: none !important;",
+  ".activitybar .action-label": "-webkit-mask-size: 18px !important; font-size: 18px !important; height: 32px !important;",
+  ".activitybar .badge-content": "top: 12px !important;",
+  ".activitybar .composite-bar": "margin-top: -4px !important;"
+  },
 ```
 
 ---
