@@ -303,7 +303,8 @@
         "entity.name.tag.reference.scss",
         "entity.other.attribute-name.scss",
         "support.type.property-name.media.css",
-        "constant.other.caps.python"
+        "constant.other.caps.python",
+        "variable.other.constant entity.name.function"
       ],
       "settings": {
         "foreground": "#A0A0A0"
