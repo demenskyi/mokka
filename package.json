@@ -1,10 +1,10 @@
 {
   "name": "mokka",
   "displayName": "Mokka",
-  "description": "Mokka theme",
+  "description": "Minimal dark theme for Visual Studio Code.",
   "icon": "images/icon.png",
   "publisher": "Demenskiy",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.43.0"
   },
@@ -17,6 +17,11 @@
         "label": "Mokka",
         "uiTheme": "vs-dark",
         "path": "./themes/Mokka Theme-color-theme.json"
+      },
+      {
+        "label": "Mokka: Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mokka Theme-color-theme.green.json"
       }
     ]
   },

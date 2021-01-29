@@ -1,5 +1,5 @@
 {
-  "name": "Mokka",
+  "name": "Mokka: Green",
   "type": "dark",
   "colors": {
     "editor.background": "#191919",
@@ -223,7 +223,7 @@
         "punctuation.definition.keyword.scss"
       ],
       "settings": {
-        "foreground": "#B070B0"
+        "foreground": "#20B090"
       }
     },
 
@@ -252,7 +252,7 @@
         "entity.other.attribute-name.id.css"
       ],
       "settings": {
-        "foreground": "#70B0E0"
+        "foreground": "#20B090"
       }
     },
 
