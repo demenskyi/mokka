@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#191919",
-    "editor.foreground": "#B3B3B3",
+    "editor.foreground": "#A0A0A0",
 
     "focusBorder": "#333333",
     "selection.background": "#B3B3B3",
