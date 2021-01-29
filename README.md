@@ -4,7 +4,7 @@ Minimal dark theme for Visual Studio Code.
 
 The idea was to create a color theme that highlights only those objects that are necessary for distinguishing and does not make the code difficult to read with unnecessary colors and highlights.
 
-![Mokka hero](https://raw.githubusercontent.com/demenskiy/mokka/preview/images/hero.png)
+![Mokka thumbnail](https://raw.githubusercontent.com/demenskiy/mokka/preview/images/hero.png)
 ![Mokka color palette](https://raw.githubusercontent.com/demenskiy/mokka/preview/images/color-palette.png)
 ![Mokka code preview (React.js)](https://raw.githubusercontent.com/demenskiy/mokka/preview/images/code-preview.png)
 
@@ -31,7 +31,7 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 ```json
 "workbench.iconTheme": "material-icon-theme",
 "material-icon-theme.folders.theme": "classic",
-"material-icon-theme.folders.color": "#666666",
+"material-icon-theme.folders.color": "#505050",
 "material-icon-theme.activeIconPack": "react_redux",
 "material-icon-theme.hidesExplorerArrows": true,
 ```
@@ -50,32 +50,16 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 #### Interface
 
 ```json
-"workbench.editor.labelFormat": "short",
+"workbench.editor.labelFormat": "default",
 "workbench.editor.showIcons": false,
 
 "breadcrumbs.icons": false,
 "breadcrumbs.filePath": "on",
 "breadcrumbs.symbolPath": "on",
 
-"editor.smoothScrolling": true,
-"editor.scrollBeyondLastLine": false,
-"editor.renderLineHighlight": "all",
-
 "editor.minimap.enabled": false,
 "workbench.statusBar.visible": false,
 "workbench.activityBar.visible": false,
-
-"customizeUI.activityBar": "regular",
-"customizeUI.activityBarHideSettings": true,
-"customizeUI.titleBar": "inline",
-"customizeUI.stylesheet": {
-  ".composite.title .title-label": "display: none !important;",
-  ".global-activity .monaco-action-bar": "display: none !important;",
-  ".tabs-and-actions-container .editor-actions": "display: none !important;",
-  ".activitybar .action-label": "-webkit-mask-size: 18px !important; font-size: 18px !important; height: 32px !important;",
-  ".activitybar .badge-content": "top: 12px !important;",
-  ".activitybar .composite-bar": "margin-top: -4px !important;"
-  },
 ```
 
 ---
