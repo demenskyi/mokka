@@ -235,8 +235,7 @@
         "support.variable.object.node",
         "variable.language.this",
         "variable.other.jsdoc",
-        "variable.scss",
-        "constant.language.import-export-all"
+        "variable.scss"
       ],
       "settings": {
         "foreground": "#E07070"
@@ -304,7 +303,8 @@
         "entity.other.attribute-name.scss",
         "support.type.property-name.media.css",
         "constant.other.caps.python",
-        "variable.other.constant entity.name.function"
+        "variable.other.constant entity.name.function",
+        "constant.language.import-export-all"
       ],
       "settings": {
         "foreground": "#A0A0A0"
