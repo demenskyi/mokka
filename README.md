@@ -4,8 +4,9 @@ Minimal dark theme for Visual Studio Code.
 
 The idea was to create a color theme that highlights only those objects that are necessary for distinguishing and does not make the code difficult to read with unnecessary colors and highlights.
 
-<img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/theme-default.png' alt='Mokka default theme'>
-<img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/theme-green.png' alt='Mokka green theme'>
+<img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/mokka-default.png' alt='Mokka default theme'>
+<img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/mokka-green.png' alt='Mokka green theme'>
+<img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/mokka-darken-blue.png' alt='Mokka darken blue theme'>
 
 ## Recommended settings
 
