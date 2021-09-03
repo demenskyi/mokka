@@ -23,13 +23,11 @@ The idea was to create a color theme that highlights only those objects that are
 For a better experience, use the "[Cascadia Code](https://github.com/microsoft/cascadia-code)" or "[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)" font.
 
 ```json
-"editor.fontFamily": "Cascadia Code, monospace",
-"editor.fontSize": 12,
+"editor.fontFamily": "Cascadia Code, JetBrains Mono, monospace",
+"editor.fontSize": 14,
+"editor.lineHeight": 1.8,
 "editor.fontLigatures": true,
-
-"terminal.integrated.fontFamily": "Cascadia Code, monospace",
-"terminal.integrated.fontSize": 12,
-"terminal.integrated.lineHeight": 1.2,
+"terminal.integrated.fontFamily": "Cascadia Code, JetBrains Mono, monospace",
 ```
 
 #### Icons
@@ -39,8 +37,8 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 ```json
 "workbench.iconTheme": "material-icon-theme",
 "material-icon-theme.folders.theme": "classic",
-"material-icon-theme.folders.color": "#505050",
-"material-icon-theme.activeIconPack": "react_redux",
+"material-icon-theme.folders.color": "#505050", // #53585c for the Darken Blue
+"material-icon-theme.activeIconPack": "react",
 "material-icon-theme.hidesExplorerArrows": true,
 ```
 
@@ -50,7 +48,6 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 "editor.cursorStyle": "underline",
 "editor.cursorBlinking": "smooth",
 "editor.cursorSmoothCaretAnimation": true,
-
 "terminal.integrated.cursorBlinking": true,
 "terminal.integrated.cursorStyle": "underline",
 ```
@@ -58,13 +55,8 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 #### Interface
 
 ```json
-"workbench.editor.labelFormat": "default",
 "workbench.editor.showIcons": false,
-
 "breadcrumbs.icons": false,
-"breadcrumbs.filePath": "on",
-"breadcrumbs.symbolPath": "on",
-
 "editor.minimap.enabled": false,
 "workbench.statusBar.visible": false,
 "workbench.activityBar.visible": false,
