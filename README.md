@@ -64,4 +64,4 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 
 ---
 
-Made for pleasure with love ❤️
+<img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/thumbnail.png' width="48px" alt='Mokka default theme'>&nbsp;&nbsp;&nbsp;Made for pleasure with love ❤️
