@@ -212,70 +212,6 @@
   "tokenColors": [
     {
       "scope": [
-        "storage",
-        "keyword",
-        "keyword.operator.expression",
-        "keyword.operator.new",
-        "support.type.object.module",
-        "punctuation.definition.block.tag.jsdoc",
-        "keyword.operator.logical.scss",
-        "keyword.operator.logical.python",
-        "punctuation.definition.keyword.scss"
-      ],
-      "settings": {
-        "foreground": "#3689B2"
-      }
-    },
-
-    {
-      "scope": [
-        "entity.name.tag",
-        "support.variable.object.process",
-        "support.variable.property.process",
-        "support.variable.object.node",
-        "variable.language.this",
-        "variable.other.jsdoc",
-        "variable.scss"
-      ],
-      "settings": {
-        "foreground": "#B23636"
-      }
-    },
-
-    {
-      "scope": [
-        "entity.name.function",
-        "support.function",
-        "storage.type.function.arrow",
-        "variable.language.super",
-        "entity.other.attribute-name.id.css"
-      ],
-      "settings": {
-        "foreground": "#3689B2"
-      }
-    },
-
-    {
-      "scope": [
-        "string",
-        "punctuation.definition.string",
-        "entity.other.attribute-name.class.css",
-        "meta.attribute-selector.scss",
-        "punctuation.definition.entity.css"
-      ],
-      "settings": {
-        "foreground": "#2E9940"
-      }
-    },
-
-    {
-      "scope": ["entity", "support"],
-      "settings": {
-        "foreground": "#CC8F14"
-      }
-    },
-    {
-      "scope": [
         "constant",
         "entity.other.attribute-name",
         "support.type",
@@ -284,7 +220,8 @@
         "keyword.other.unit",
         "variable.parameter.url.scss",
         "support.variable.magic.python",
-        "constant.character.format.placeholder.other.python"
+        "constant.character.format.placeholder.other.python",
+        "variable.other.object"
       ],
       "settings": {
         "foreground": "#262626"
@@ -315,6 +252,72 @@
       "scope": ["punctuation", "comment", "keyword.operator", "meta.brace"],
       "settings": {
         "foreground": "#262626"
+      }
+    },
+
+    {
+      "scope": [
+        "storage",
+        "keyword",
+        "keyword.operator.expression",
+        "keyword.operator.new",
+        "support.type.object.module",
+        "punctuation.definition.block.tag.jsdoc",
+        "keyword.operator.logical.scss",
+        "keyword.operator.logical.python",
+        "punctuation.definition.keyword.scss"
+      ],
+      "settings": {
+        "foreground": "#4974a5"
+      }
+    },
+
+    {
+      "scope": [
+        "entity.name.tag",
+        "support.variable.object.process",
+        "support.variable.property.process",
+        "support.variable.object.node",
+        "variable.language.this",
+        "variable.other.jsdoc",
+        "variable.scss"
+      ],
+      "settings": {
+        "foreground": "#b23636"
+      }
+    },
+
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "storage.type.function.arrow",
+        "variable.language.super",
+        "entity.other.attribute-name.id.css",
+        "support.constant"
+      ],
+      "settings": {
+        "foreground": "#4974a5"
+      }
+    },
+
+    {
+      "scope": [
+        "string",
+        "punctuation.definition.string",
+        "entity.other.attribute-name.class.css",
+        "meta.attribute-selector.scss",
+        "punctuation.definition.entity.css"
+      ],
+      "settings": {
+        "foreground": "#298939"
+      }
+    },
+
+    {
+      "scope": ["entity", "support", "constant.numeric", "support.constant.property-value.css"],
+      "settings": {
+        "foreground": "#cd8f49"
       }
     }
   ]
