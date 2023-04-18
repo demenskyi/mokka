@@ -314,7 +314,7 @@
     {
       "scope": ["punctuation", "comment", "keyword.operator", "meta.brace"],
       "settings": {
-        "foreground": "#505050"
+        "foreground": "#53585c"
       }
     }
   ]

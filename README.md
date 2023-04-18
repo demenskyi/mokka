@@ -12,9 +12,9 @@ The idea was to create a color theme that highlights only those objects that are
 
 <img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/mokka-green-preview.png' alt='Mokka green theme'>
 
-#### Darken Blue
+#### Blue
 
-<img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/mokka-darken-blue-preview.png' alt='Mokka darken blue theme'>
+<img src='https://raw.githubusercontent.com/demenskiy/mokka/master/images/mokka-blue-preview.png' alt='Mokka blue theme'>
 
 ## Recommended settings
 
@@ -37,7 +37,7 @@ For a better experience, use the "[Material Icon Theme](https://marketplace.visu
 ```json
 "workbench.iconTheme": "material-icon-theme",
 "material-icon-theme.folders.theme": "classic",
-"material-icon-theme.folders.color": "#505050", // #53585c for the Darken Blue
+"material-icon-theme.folders.color": "#505050", // #53585c for lighten variants
 "material-icon-theme.activeIconPack": "react",
 "material-icon-theme.hidesExplorerArrows": true,
 ```

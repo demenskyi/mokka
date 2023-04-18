@@ -4,7 +4,7 @@
   "description": "Minimal dark theme for Visual Studio Code.",
   "icon": "images/thumbnail.png",
   "publisher": "Demenskiy",
-  "version": "1.2.2",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.43.0"
   },
@@ -19,24 +19,29 @@
         "path": "./themes/Mokka Theme-color-theme.json"
       },
       {
+        "label": "Mokka Lighten",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mokka Theme-color-theme.lighten.json"
+      },
+      {
         "label": "Mokka: Green",
         "uiTheme": "vs-dark",
         "path": "./themes/Mokka Theme-color-theme.green.json"
       },
       {
-        "label": "Mokka: Darken Blue",
+        "label": "Mokka: Green Lighten",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mokka Theme-color-theme.darken-blue.json"
+        "path": "./themes/Mokka Theme-color-theme.green-lighten.json"
       },
       {
-        "label": "Mokka: Darken Blue 2",
+        "label": "Mokka: Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mokka Theme-color-theme.darken-blue-2.json"
+        "path": "./themes/Mokka Theme-color-theme.blue.json"
       },
       {
-        "label": "Mokka: Lighten Blue",
-        "uiTheme": "vs",
-        "path": "./themes/Mokka Theme-color-theme.lighten-blue.json"
+        "label": "Mokka: Blue Lighten",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mokka Theme-color-theme.blue-lighten.json"
       }
     ]
   },
