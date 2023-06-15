@@ -248,7 +248,8 @@
         "support.function",
         "storage.type.function.arrow",
         "variable.language.super",
-        "entity.other.attribute-name.id.css"
+        "entity.other.attribute-name.id.css",
+        "meta.function-call.generic.python"
       ],
       "settings": {
         "foreground": "#20B090"

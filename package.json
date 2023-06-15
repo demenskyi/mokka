@@ -4,7 +4,7 @@
   "description": "Minimal dark theme for Visual Studio Code.",
   "icon": "images/thumbnail.png",
   "publisher": "Demenskiy",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "engines": {
     "vscode": "^1.43.0"
   },
